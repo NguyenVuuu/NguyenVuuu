@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Phan%20Nguyên%20Vũ&fontSize=70&animation=twinkling&fontAlignY=35&desc=Software%20EngineerfontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Phan%20Nguyên%20Vũ&fontSize=70&animation=twinkling&fontAlignY=35&desc=Software%20Engineer" width="100%"/>
 </div>
 
 <div align="center">
