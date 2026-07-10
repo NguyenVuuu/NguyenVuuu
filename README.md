@@ -24,11 +24,12 @@
   </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<div align="center">
-       
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">       
+
 ### GitHub Streak Stats
 
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyenvuuu&theme=merko&border_radius=10)](https://git.io/streak-stats) 
 
 [![NguyenVuuu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenvuuu&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
