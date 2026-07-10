@@ -71,7 +71,7 @@
 <br/>
 
 <div align="center">
-  <i>"Trân trọng, Phan Nguyên "</i>
+  <i>"Trân trọng, Phan Nguyên Vũ"</i>
 </div>
 
 
