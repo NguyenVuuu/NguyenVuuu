@@ -17,7 +17,7 @@
         <ul>
           <li>🎓 Final-year Software Engineering student at <b>Industrial University of Ho Chi Minh City (IUH)</b>.</li>
           <li>💻 Passionate about building <b>scalable web applications</b> with <b>Java, Spring Boot, React, and Node.js</b>.</li>
-          <li>🏗️ Interested in <b>System Architecture, Microservices, Design Patterns</b>.</li>
+          <li>🏗️ Interested in System Architecture, Microservices, Design Patterns.</li>
           <li>🚀 Always improving my skills through real-world projects and exploring modern technologies.</li>
           <li>☕ Turning ideas into code, learning something new every day.</li>
         </ul>
