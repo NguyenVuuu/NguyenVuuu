@@ -46,7 +46,7 @@
 
 <div align="center">
 
-  <a href="mailto:nguyenvu2112004@gmail.com" style={text-decoration:none}>
+  <a href="mailto:nguyenvu2112004@gmail.com" text-decoration="none">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
