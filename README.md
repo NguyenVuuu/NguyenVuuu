@@ -22,7 +22,8 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bunheree&theme=merko&border_radius=10)](https://git.io/streak-stats)
+        [![GitHub Streak]
+        (https://github-readme-streak-stats.herokuapp.com?user=bunheree&theme=merko&border_radius=10)](https://git.io/streak-stats)
       </td>
     </tr>
   </table>
