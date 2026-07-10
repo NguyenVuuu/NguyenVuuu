@@ -33,6 +33,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyenvuuu&theme=merko&border_radius=10)](https://git.io/streak-stats) 
 
 [![NguyenVuuu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenvuuu&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![NguyenVuuu Stats](https://github-readme-stats.vercel.app/api?username=nguyenvuuu&show_icons=true&theme=tokyonight)
+
 </div>
 
 
