@@ -13,7 +13,6 @@
 
 <div align="center">
   <table>
-    <tr>
       <td width="60%">
         <ul>
           <li>🎓 Sinh viên năm 4 chuyên ngành <b>Kỹ thuật phần mềm </b>tại <b>Trường Đại học Công nghiệp TP.HCM</b>.</li>
@@ -22,13 +21,23 @@
         </ul>
       </td>
       
-    </tr>
   </table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyenvuuu&theme=merko&border_radius=10)](https://git.io/streak-stats)
+
+(https://github-readme-streak-stats.herokuapp.com?user=nguyenvuuu&theme=merko&border_radius=10)](https://git.io/streak-stats)
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+        [![Emma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenvuuu&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+(https://github-readme-activity-graph.vercel.app/graph?username=nguyenvuuu&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
