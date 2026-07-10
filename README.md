@@ -22,7 +22,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="Coding GIF" width="250"/>
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bunheree&theme=merko&border_radius=10)](https://git.io/streak-stats)
       </td>
     </tr>
   </table>
