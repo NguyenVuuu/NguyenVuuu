@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-stack+Developer;Always+Learning+%26+Building;ReactJS+/+NodeJS;"Turnig+ideas+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-stack+Developer;Always+Learning+%26+Building;ReactJS+/+NodeJS;Turnig+ideas+into+code" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -17,7 +17,7 @@
         <ul>
           <li>🎓 Final-year Software Engineering student at <b>Industrial University of Ho Chi Minh City (IUH)</b>.</li>
           <li>💻 Passionate about building <b>scalable web applications</b> with <b>Java, Spring Boot, React, and Node.js</b>.</li>
-          <li>🏗️ Interested in <b>System Architecture, Microservices, Design Patterns.</li>
+          <li>🏗️ Interested in <b>System Architecture, Microservices, Design Patterns<b/>.</li>
           <li>🚀 Always improving my skills through real-world projects and exploring modern technologies.</li>
           <li>☕ Turning ideas into code, learning something new every day.</li>
         </ul>
@@ -46,23 +46,22 @@
 
 <div align="center">
 
-  <a href="mailto:nguyenvu2112004@gmail.com">
+  <a href="mailto:nguyenvu2112004@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/nguyenvuuu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
+  <a href="https://www.linkedin.com/in/nguyenvuuu/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://github.com/nguyenvuuu">
+  <a href="https://github.com/nguyenvuuu" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  
-   <a href="https://www.facebook.com/nguyenvuuu0211">
+
+  <a href="https://www.facebook.com/nguyenvuuu0211" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 
-  <img src="https://img.shields.io/badge/Phone_/_Zalo-0338973517-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo/Phone" />
 </div>
 
 
@@ -84,7 +83,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
 #### Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -95,7 +94,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 
@@ -108,7 +107,10 @@
   <i>"Trân trọng, Phan Nguyên Vũ"</i>
 </div>
 
- ![Profile Views](https://komarev.com/ghpvc/?username=nguyenvuuu&color=blue&style=flat-square)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyenvuuu&color=blue&style=flat-square" alt="Profile Views"/>
+</div>
+
  
 
 
