@@ -91,8 +91,8 @@
 <div align="center">
   <i>"Trân trọng, Phan Nguyên Vũ"</i>
 </div>
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=nguyenvuuu&color=blue&style=flat-square)
-</div>
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=nguyenvuuu&color=blue&style=flat-square)
+ 
 
 
