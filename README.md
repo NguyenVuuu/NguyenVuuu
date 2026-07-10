@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-stack+Developer;Always+Learning+%26+Building;ReactJS+/+NodeJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-stack+Developer;Always+Learning+%26+Building;ReactJS+/+NodeJS;"Turnig+ideas+into+code" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -15,9 +15,11 @@
   <table>
       <td width="60%">
         <ul>
-          <li>🎓 Sinh viên năm 4 chuyên ngành <b>Kỹ thuật phần mềm </b>tại <b>Trường Đại học Công nghiệp TP.HCM</b>.</li>
-          <li>🌱 Đam mê nghiên cứu sâu về <b>System Architecture, Microservices, Design Patterns</b> và <b>Web Security</b>.</li>
-          <li>⚡ Thích xây dựng các giao diện trang web đạt tốt ưu yêu cầu về UI/.</li>
+          <li>🎓 Final-year Software Engineering student at <b>Industrial University of Ho Chi Minh City (IUH)</b>.</li>
+          <li>💻 Passionate about building <b>scalable web applications</b> with <b>Java, Spring Boot, React, and Node.js</b>.</li>
+          <li>🏗️ Interested in <b>System Architecture, Microservices, Design Patterns.</li>
+          <li>🚀 Always improving my skills through real-world projects and exploring modern technologies.</li>
+          <li>☕ Turning ideas into code, learning something new every day.</li>
         </ul>
       </td>
       
