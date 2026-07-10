@@ -12,18 +12,13 @@
 ### About Me
 
 <div align="center">
-  <table>
-      <td width="60%">
-        <ul>
-          <li>🎓 Final-year Software Engineering student at <b>Industrial University of Ho Chi Minh City (IUH)</b>.</li>
-          <li>💻 Passionate about building <b>scalable web applications</b> with <b>Java, Spring Boot, React, and Node.js</b>.</li>
-          <li>🏗️ Interested in <b>System Architecture, Microservices, Design Patterns</b>.</li>
-          <li>🚀 Always improving my skills through real-world projects and exploring modern technologies.</li>
-          <li>☕ Turning ideas into code, learning something new every day.</li>
-        </ul>
-      </td>
-      
-  </table>
+  🖥️ I'm a Software Engineering student passionate about building modern, responsive, and user-friendly web applications.
+
+  🎨 I enjoy creating intuitive interfaces with a focus on clean design, smooth user experiences, and maintainable frontend architecture using modern web technologies.
+
+  ⚡ Beyond frontend development, I also explore backend technologies and software engineering practices to build complete and scalable applications.
+
+  🚀 Always learning, experimenting, and turning ideas into meaningful digital experiences.
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">       
@@ -96,11 +91,5 @@
 <div align="center">
   <i>"Trân trọng, Phan Nguyên Vũ"</i>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyenvuuu&color=blue&style=flat-square" alt="Profile Views"/>
-</div>
-
- 
 
 
