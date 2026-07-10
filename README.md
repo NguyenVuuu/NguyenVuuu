@@ -86,9 +86,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=nguyenvuuu&color=blue&style=flat-square)
+
+
 <div align="center">
   <i>"Trân trọng, Phan Nguyên Vũ"</i>
+  ![Profile Views](https://komarev.com/ghpvc/?username=nguyenvuuu&color=blue&style=flat-square)
 </div>
 
 
