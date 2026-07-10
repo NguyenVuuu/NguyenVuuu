@@ -21,13 +21,15 @@
           <li>⚡ Thích xây dựng các giao diện trang web đạt tốt ưu yêu cầu về UI/.</li>
         </ul>
       </td>
-      <td width="40%" align="center">
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyenvuuu&theme=merko&border_radius=10)](https://git.io/streak-stats)
-      </td>
+      
     </tr>
   </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nguyenvuuu&theme=merko&border_radius=10)](https://git.io/streak-stats)
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Mailbox" width="30" height="30" /> Connect With Me
