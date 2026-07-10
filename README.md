@@ -17,7 +17,7 @@
         <ul>
           <li>🎓 Final-year Software Engineering student at <b>Industrial University of Ho Chi Minh City (IUH)</b>.</li>
           <li>💻 Passionate about building <b>scalable web applications</b> with <b>Java, Spring Boot, React, and Node.js</b>.</li>
-          <li>🏗️ Interested in <b>System Architecture, Microservices, Design Patterns</b>b>.</li>
+          <li>🏗️ Interested in <b>System Architecture, Microservices, Design Patterns</b>.</li>
           <li>🚀 Always improving my skills through real-world projects and exploring modern technologies.</li>
           <li>☕ Turning ideas into code, learning something new every day.</li>
         </ul>
@@ -43,34 +43,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Mailbox" width="30" height="30" /> Connect With Me
- 
-<div align="center">
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenvu2112004@gmail.com)
 
-<span>
-  <a href="mailto:nguyenvu2112004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</span>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguyenvuuu/)
 
-<span>
-  <a href="https://www.linkedin.com/in/nguyenvuuu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</span>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyenvuuu)
 
-<span>
-  <a href="https://github.com/nguyenvuuu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</span>
-
-<span>
-  <a href="https://www.facebook.com/nguyenvuuu0211">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</span>
-
-</div>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyenvuuu0211)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
