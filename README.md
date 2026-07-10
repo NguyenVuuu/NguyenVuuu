@@ -45,9 +45,23 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Mailbox" width="30" height="30" /> Connect With Me
 
 <div align="center">
-  <a href="mailto:nguyenvu2112004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/nguyenvuuu/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <br/>
+
+  <a href="mailto:nguyenvu2112004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/nguyenvuuu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/nguyenvuuu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  
+   <a href="https://www.facebook.com/nguyenvuuu0211">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
   <img src="https://img.shields.io/badge/Phone_/_Zalo-0338973517-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo/Phone" />
 </div>
 
