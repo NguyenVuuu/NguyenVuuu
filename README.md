@@ -43,27 +43,34 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" alt="Mailbox" width="30" height="30" /> Connect With Me
-
+ 
 <div align="center">
 
-  <a href="mailto:nguyenvu2112004@gmail.com" text-decoration="none">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<span>
+  <a href="mailto:nguyenvu2112004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</span>
 
-  <a href="https://www.linkedin.com/in/nguyenvuuu/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<span>
+  <a href="https://www.linkedin.com/in/nguyenvuuu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</span>
 
-  <a href="https://github.com/nguyenvuuu" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<span>
+  <a href="https://github.com/nguyenvuuu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</span>
 
-  <a href="https://www.facebook.com/nguyenvuuu0211" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+<span>
+  <a href="https://www.facebook.com/nguyenvuuu0211">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+</span>
 
 </div>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
