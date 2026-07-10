@@ -11,7 +11,7 @@
 
 ### About Me
 
-<div align="center">
+<div >
   🖥️ I'm a Software Engineering student passionate about building modern, responsive, and user-friendly web applications.
 
   🎨 I enjoy creating intuitive interfaces with a focus on clean design, smooth user experiences, and maintainable frontend architecture using modern web technologies.
