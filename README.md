@@ -34,8 +34,6 @@
 
 [![NguyenVuuu github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenvuuu&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![NguyenVuuu Stats](https://github-readme-stats.vercel.app/api?username=nguyenvuuu&show_icons=true&theme=tokyonight)
-
 </div>
 
 
@@ -77,6 +75,13 @@
 ![UI / UX](https://img.shields.io/badge/UI_/_UX-FF4500?style=for-the-badge)
 ![Realtime](https://img.shields.io/badge/Realtime-000000?style=for-the-badge)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117B85.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,docker,git,linux,mysql,postgres,redis,kafka,aws" />
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
+![Stats](https://github-readme-stats.vercel.app/api?username=nguyenvuuu&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvuuu&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=nguyenvuuu)
+![](https://komarev.com/ghpvc/?username=nguyenvuuu)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
