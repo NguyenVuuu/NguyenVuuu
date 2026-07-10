@@ -34,10 +34,12 @@
 
 <div align="center">
   <a href="mailto:nguyenvu2112004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <br/>
+  <a href="https://www.linkedin.com/in/nguyenvuuu/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <br/>
   <img src="https://img.shields.io/badge/Phone_/_Zalo-0338973517-0068FF?style=for-the-badge&logo=zalo&logoColor=white" alt="Zalo/Phone" />
 </div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
